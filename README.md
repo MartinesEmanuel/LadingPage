@@ -2,6 +2,11 @@
 
 Uma landing page projetada para converter visitantes em clientes, apresentando seu produto, serviço ou aplicativo de forma envolvente.
 
+
+![Demonstração](demo.gif)
+
+
+
 ## Funcionalidades
 
 - **Design Atraente**: Layout moderno com animações suaves.
